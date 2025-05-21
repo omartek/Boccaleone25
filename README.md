@@ -9,7 +9,7 @@ Il repository contiene:
 
 - `Fischietto Boccaleone.stl` – modello 3D di un **fischietto portachiavi** realizzato con stampa 3D a fusione di filamento (FDM) in **PLA**, personalizzato con il logo della rete di quartiere;
 - `Taglio gettoni.dxf` – file per **taglio laser** di **16 gettoni standard** da 50 mm di diametro, disposti su un pannello da **200 mm x 200 mm**, ideale per una produzione in serie su legno o altro materiale piano.
-- `gettone_retediquartiere.svg` – file per **incisione laser** di un **gettone portamonete**, anch’esso personalizzato con il logo della rete.
+- `gettone_retediquartiere.svg` – file per **incisione laser** di un **gettone portachiavi**, anch’esso personalizzato con il logo della rete.
 
 ## Tecniche di realizzazione
 
