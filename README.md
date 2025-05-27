@@ -27,7 +27,7 @@ Per la modellazione, modifica e preparazione dei file sono stati utilizzati soft
 - ✏️ **[Inkscape](https://inkscape.org/)** – per la creazione e la modifica dei file vettoriali destinati all’incisione laser.
 - 🖨️ **[PrusaSlicer](https://www.prusa3d.com/prusaslicer/)** e **[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)** – per la preparazione del G-code per la stampa 3D.
 - 🔥 **[LaserGRBL](https://lasergrbl.com/)** (per macchine compatibili) per il controllo della laser cutter per Windows.
-- 🔥 **[LaserWEB]([https://laserweb.yurl.ch/](https://github.com/LaserWeb/LaserWeb4/issues))** per il controllo della laser cutter multipiattaforma.
+- 🔥 **[LaserWEB](https://github.com/LaserWeb/LaserWeb4/issues)** per il controllo della laser cutter, multipiattaforma.
 
 L’utilizzo di strumenti open source ha permesso la piena accessibilità e replicabilità del progetto da parte di chiunque.
 
