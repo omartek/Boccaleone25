@@ -8,7 +8,7 @@ Questo repository raccoglie i file realizzati e presentati durante l'evento, ded
 Il repository contiene:
 
 - `Fischietto Boccaleone.stl` – modello 3D di un **fischietto portachiavi** realizzato con stampa 3D a fusione di filamento (FDM) in **PLA**, personalizzato con il logo della rete di quartiere;
-- `FABLAB - esagono.svg – file per **taglio laser**.
+- `FABLAB - esagono.svg` – file per **taglio laser**.
 - `gettone-rete-boccaleone.svg` – file per **incisione laser** di un **gettone portachiavi**, anch’esso personalizzato con il logo della rete.
 
 ## Tecniche di realizzazione
