@@ -8,8 +8,8 @@ Questo repository raccoglie i file realizzati e presentati durante l'evento, ded
 Il repository contiene:
 
 - `Fischietto Boccaleone.stl` – modello 3D di un **fischietto portachiavi** realizzato con stampa 3D a fusione di filamento (FDM) in **PLA**, personalizzato con il logo della rete di quartiere;
-- `Taglio gettoni.dxf` – file per **taglio laser**.
-- `gettone_retediquartiere.svg` – file per **incisione laser** di un **gettone portachiavi**, anch’esso personalizzato con il logo della rete.
+- `FABLAB - esagono.svg – file per **taglio laser**.
+- `gettone-rete-boccaleone.svg` – file per **incisione laser** di un **gettone portachiavi**, anch’esso personalizzato con il logo della rete.
 
 ## Tecniche di realizzazione
 
@@ -26,7 +26,8 @@ Per la modellazione, modifica e preparazione dei file sono stati utilizzati soft
 - 🧊 **[FreeCAD](https://www.freecad.org/)** – per la modellazione 3D del fischietto portachiavi.
 - ✏️ **[Inkscape](https://inkscape.org/)** – per la creazione e la modifica dei file vettoriali destinati all’incisione laser.
 - 🖨️ **[PrusaSlicer](https://www.prusa3d.com/prusaslicer/)** e **[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)** – per la preparazione del G-code per la stampa 3D.
-- 🔥 **[LaserGRBL](https://lasergrbl.com/)** (per macchine compatibili) per il controllo della laser cutter.
+- 🔥 **[LaserGRBL](https://lasergrbl.com/)** (per macchine compatibili) per il controllo della laser cutter per Windows.
+- 🔥 **[LaserWEB]([https://laserweb.yurl.ch/](https://github.com/LaserWeb/LaserWeb4/issues))** per il controllo della laser cutter multipiattaforma.
 
 L’utilizzo di strumenti open source ha permesso la piena accessibilità e replicabilità del progetto da parte di chiunque.
 
